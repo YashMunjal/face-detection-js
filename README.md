@@ -1,2 +1,2 @@
-# face-detection-js
-Face detection software made from javascript
+# Hand detection scrolling
+Scroll the webpage with the movement of your hands using your webcam
